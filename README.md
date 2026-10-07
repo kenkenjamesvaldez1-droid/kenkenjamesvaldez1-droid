@@ -13,14 +13,40 @@ and emerging technologies.
 This GitHub profile serves as my portfolio where I document
 my projects, skills, and learning journey in Computer Engineering.
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-- 💻 Programming
-- 🌐 Web Development
-- 🗄️ Database Management
-- 🌐 Computer Networking
-- ⚙️ Embedded Systems
-- 🔧 Git & GitHub
+### 💻 Programming
+- C / C++
+- Java
+- Python
+- JavaScript
+
+### 🌐 Web & Application Development
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- Android Development
+
+### 🗄️ Database
+- MySQL
+- MariaDB
+- Firebase
+
+### ⚙️ Embedded Systems
+- 8051 Microcontroller
+- Arduino
+- Sensors
+- Basic Electronics
+
+### 🔧 Tools
+- Git
+- GitHub
+- Visual Studio Code
+- AutoCAD
+- MATLAB / Simulink
+- KiCad
 
 ## 🚀 Projects
 
