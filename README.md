@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Kenneth James Valdez
 
-<!--
-**kenkenjamesvaldez1-droid/kenkenjamesvaldez1-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 4th Year Computer Engineering Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a 4th-year Computer Engineering student interested in
+software development, computer networking, embedded systems,
+and emerging technologies.
+
+This GitHub profile serves as my portfolio where I document
+my projects, skills, and learning journey in Computer Engineering.
+
+## 🛠️ Skills
+
+- 💻 Programming
+- 🌐 Web Development
+- 🗄️ Database Management
+- 🌐 Computer Networking
+- ⚙️ Embedded Systems
+- 🔧 Git & GitHub
+
+## 🚀 Projects
+
+### 📱 Project Nexus
+
+A software engineering project developed as part of my
+Computer Engineering studies.
+
+### 💬 FeedSync
+
+A feedback management application developed using
+web technologies and database integration.
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Engineering**
+
+4th Year Student
+
+## 📫 Contact
+
+GitHub: [@kenkenjamesvaldez1-droid](https://github.com/kenkenjamesvaldez1-droid)
