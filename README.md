@@ -2,7 +2,7 @@
 
 ### 🎓 4th Year Computer Engineering Student @ ICCT Colleges
 
-## 🛠️ Skills & Technologies
+## 🛠️ Practicing Skills & Technologies
 
 ### 💻 Programming
 - C / C++
@@ -34,8 +34,12 @@
 - GitHub
 - Visual Studio Code
 - AutoCAD
-- MATLAB / Simulink
 - KiCad
+- Affinity Publisher 2
+- SketchUp
+- Arduino IDE
+- Cisco Packet Tracer
+- MATLAB / Simulink
 
 ## 📫 Let's connect! 
 
